@@ -1,12 +1,5 @@
 body {
-	background: url(https://kartinki.pics/uploads/posts/2021-07/1626142988_35-kartinkin-com-p-chisto-chyornii-fon-bez-nichego-krasivo-43.jpg);
-	background-repeat: no-repeat;
-  background-position: center center;
-  background-attachment: fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: 100%;
+	background-color: black;
 }
 
 .text_2 {
